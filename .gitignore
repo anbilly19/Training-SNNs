@@ -1,0 +1,6 @@
+data/*
+__pycache__/custom_neuron.cpython-38.pyc
+__pycache__/data_loader.cpython-38.pyc
+__pycache__/model_spiking.cpython-38.pyc
+__pycache__/solver_spiking.cpython-38.pyc
+__pycache__/visualization.cpython-38.pyc

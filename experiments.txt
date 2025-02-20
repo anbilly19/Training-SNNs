@@ -1,0 +1,3 @@
+Vanilla:
+PLIF, tau=2.5, epochs=15, encoding=Poission, Timesteps=10, Tr_batch = 32, surrogate_function=arcTan
+Unless mentioned in experiment_name column all above values are the same.
