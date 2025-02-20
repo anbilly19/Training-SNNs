@@ -1,5 +1,5 @@
 
-### Project Title: Performance Analysis of Spiking Neural Networks
+### Project Title: Analysis of Direct Training of Spiking Neural Networks
 
 #### Objective
 To implement and evaluate the performance of Spiking Neural Networks (SNNs) in comparison to traditional neural networks, focusing on efficiency and computational power in processing temporal data.
